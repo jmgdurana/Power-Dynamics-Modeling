@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d (TeX Live 2025/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: AbstModPower.aux
+The style file: Definitions/mdpi.bst
+Illegal, another \bibstyle command---line 302 of file AbstModPower.aux
+ : \bibstyle
+ :          {Definitions/mdpi}
+I'm skipping whatever remains of this command
+Database file #1: abstract_modeling_power.bib
+Warning--string name "nov" is undefined
+--line 5 of file abstract_modeling_power.bib
+Warning--string name "nov" is undefined
+--line 14 of file abstract_modeling_power.bib
+Warning--string name "nov" is undefined
+--line 23 of file abstract_modeling_power.bib
+You're missing a field name---line 869 of file abstract_modeling_power.bib
+ :  year      = {2006}, 
+ :                      % Edición moderna recomendada, aunque el texto es del siglo XIII
+I'm skipping whatever remains of this entry
+Repeated entry---line 2631 of file abstract_modeling_power.bib
+ : @book{Kundur1994power
+ :                      ,
+I'm skipping whatever remains of this entry
+You've used 35 entries,
+            2887 wiz_defined-function locations,
+            792 strings with 11258 characters,
+and the built_in function-call counts, 12828 in all, are:
+= -- 1107
+> -- 704
+< -- 19
++ -- 317
+- -- 188
+* -- 1074
+:= -- 1999
+add.period$ -- 117
+call.type$ -- 35
+change.case$ -- 39
+chr.to.int$ -- 35
+cite$ -- 35
+duplicate$ -- 624
+empty$ -- 1117
+format.name$ -- 258
+if$ -- 2706
+int.to.chr$ -- 1
+int.to.str$ -- 35
+missing$ -- 41
+newline$ -- 189
+num.names$ -- 105
+pop$ -- 326
+preamble$ -- 0
+purify$ -- 35
+quote$ -- 0
+skip$ -- 351
+stack$ -- 0
+substring$ -- 475
+swap$ -- 115
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 218
+warning$ -- 0
+while$ -- 101
+width$ -- 0
+write$ -- 461
+(There were 3 error messages)
